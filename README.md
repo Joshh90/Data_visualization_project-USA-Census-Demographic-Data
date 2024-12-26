@@ -57,7 +57,7 @@ _Which State Has the Best Transportation?_
 
 I. Link to visualization that answer the question:
 [Dataset link](https://public.tableau.com/app/profile/joshua.adelakun/viz/USCensusDemographicDataProject_17348489952100/Meancommutetimeineachcounty?publish=yes)
-![Screenshot link]()
+![Screenshot link](https://github.com/Joshh90/Data-visualization-project-USA-Census-Demographic-Data/blob/main/Mean%20commute%20time%20in%20each%20county%20screenshot.jpg)
 
 B. Summary
 ##### Analysis:
@@ -104,7 +104,8 @@ commune time in each county of USA.
 A. _Which State Has the Best Transportation?_
 
 I. DASHBOARD SCREENSHOT LINK:
-[Screenshot](https://github.com/Joshh90/Data-visualization-project-USA-Census-Demographic-Data/blob/main/Main%20dashboard.jpg)
+[Dataset link]()
+![Screenshot](https://github.com/Joshh90/Data-visualization-project-USA-Census-Demographic-Data/blob/main/Main%20dashboard.jpg)
 
 II. DASHBOARD SUMMARY
 
