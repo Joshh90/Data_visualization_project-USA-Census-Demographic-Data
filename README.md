@@ -92,7 +92,7 @@ Bubble charts allow viewers to quickly compare the commute times across differen
 The visual proximity of the circles makes it easy to identify which counties have the shortest
 commute times at a glance.
 Color:
-• I used different variant of colors support users of visualization that has color blindness. I
+* I used different variant of colors support users of visualization that has color blindness. I
 achieved these by using color marks in tableau.
 Visualization Summary:
 After the thorough analysis of the census dataset, I gained a valuable insight about mean
@@ -104,8 +104,8 @@ commune time in each county of USA.
 A. _Which State Has the Best Transportation?_
 
 I. DASHBOARD SCREENSHOT LINK:
-[Dataset link](https://github.com/Joshh90/Data-visualization-project-USA-Census-Demographic-Data/blob/main/Main%20dashboard1.jpg)
-![Screenshot]()
+[Dataset link](https://public.tableau.com/app/profile/joshua.adelakun/viz/USCensusDemographicDataProject_17348489952100/UScensusdemodash?publish=yes)
+![Screenshot](https://github.com/Joshh90/Data-visualization-project-USA-Census-Demographic-Data/blob/main/Main%20dashboard1.jpg)
 
 II. DASHBOARD SUMMARY
 
