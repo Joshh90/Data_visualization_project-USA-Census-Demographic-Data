@@ -33,10 +33,12 @@ C. Design
 Chart Type:
 * I used a symbol map to illustrate the state with the highest employment. Symbol
 maps effectively convey geographic distributions of employment data.
+
 Color:
 * A blue-orange divergent color palette was employed, with the brightest orange
 representing the state with the highest employment and the brightest blue for the
 lowest.
+
 Size Mark:
 * The largest circle on the map indicates the state with the highest employment.
 Tooltip:
@@ -47,25 +49,70 @@ Visual Summary:
 After the thorough analysis of the census dataset, I gained a valuable insight about
 employment across the United States.
 
-#### DASHBOARD REPORT:
-I. LINK:
-US Census Demo Dashboard
-
-II. DASHBOARD SUMMARY
+#### Second visualization report
 ##### Question addressed with the dataset:
-A. _Which State Has the Best Transportation?_
-Analysis:
+_Which State Has the Best Transportation?
+
+I. Link to visualization that answer the question:
+[Dataset link]()
+![Screenshot link]()
+B. Summary
+##### Analysis:
 I selected the state with the least mean commute time as the one with the best
 transportation, as shorter commute times can indicate more efficient transportation
 systems.
 Defining "Best Transportation"
 Criteria for Evaluation:
+• Lowest Mean Commute Times: This indicates how efficiently people can travel to
+work. Shorter commute times often reflect better transportation systems.
+Aggregation Method:
+• Mean Commute Times: I calculated the average of the mean commute times for
+all counties within each state. Based on my analysis, Alaska has the least average
+mean commute time of 11.23 minutes.
+Outlier Analysis:
+• I identified Matanuska-Susitna Borough County in Alaska as an outlier with an
+average mean commute time of 34 minutes. The preceding county, Kenai Peninsula
+Borough, has an average mean commute time of 19.70 minutes. To prevent data skew,
+I excluded Matanuska-Susitna Borough from my analysis. After exclusion, Alaska
+remains the state with the best transportation, with an adjusted average mean commute
+time of 10.4 minutes.
+C. Design
+Chart Type:
+I used Bubble charts for the visualization.
+Bubble charts allow viewers to quickly compare the commute times across different counties.
+The visual proximity of the circles makes it easy to identify which counties have the shortest
+commute times at a glance.
+Color:
+• I used different variant of colors support users of visualization that has color blindness. I
+achieved these by using color marks in tableau.
+Visualization Summary:
+After the thorough analysis of the census dataset, I gained a valuable insight about mean
+commune time in each county of USA.
+
+
+#### DASHBOARD REPORT:
+##### Question addressed with the dataset displayed in the dashboard:
+A. _Which State Has the Best Transportation?_
+
+I. DASHBOARD SCREENSHOT LINK:
+[Screenshot](https://github.com/Joshh90/Data-visualization-project-USA-Census-Demographic-Data/blob/main/Main%20dashboard.jpg)
+
+II. DASHBOARD SUMMARY
+
+Analysis:
+I selected the state with the least mean commute time as the one with the best
+transportation, as shorter commute times can indicate more efficient transportation
+systems.
+
+Defining "Best Transportation"Criteria for Evaluation:
 * Lowest Mean Commute Times: This indicates how efficiently people can travel to
 work. Shorter commute times often reflect better transportation systems.
+
 Aggregation Method:
 * Mean Commute Times: I calculated the average of the mean commute times for
 all counties within each state. Based on my analysis, Alaska has the least average
 mean commute time of 11.23 minutes.
+
 Outlier Analysis:
 * I identified Matanuska-Susitna Borough County in Alaska as an outlier with an
 average mean commute time of 34 minutes. The preceding county, Kenai Peninsula
@@ -107,5 +154,5 @@ Dashboards in Tableau can include interactive elements such as filters, paramete
 and tooltips. This interactivity allows users to explore the data more deeply and
 customize their view based on their specific needs.
 Visualization Summary:
-After the thorough analysis of the census dataset, I gained a valuable insight about
+After a thorough analysis of the census dataset, I gained a valuable insight about
 transportation, income, poverty.
