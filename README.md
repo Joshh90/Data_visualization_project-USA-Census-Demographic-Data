@@ -171,6 +171,7 @@ After a thorough analysis of the census dataset, I gained a valuable insight abo
 transportation, income, poverty.
 
 #### Story telling with the data
+I used the dataset to tell a story. The story display all the visualization.
 ![Dataset Screenshot](https://github.com/Joshh90/Data-visualization-project-USA-Census-Demographic-Data/blob/main/Story%20telling%20with%20the%20data%20screenshot.jpg)
 
 [Link to Story telling with the dataset](https://public.tableau.com/app/profile/joshua.adelakun/viz/USCensusDemographicDataProject_17348489952100/Storytellingwiththedata?publish=yes)
