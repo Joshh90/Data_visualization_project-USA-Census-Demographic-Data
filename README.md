@@ -8,4 +8,6 @@ poverty, and employment across the United States.
 The data was taken from the DP03 and DP05 tables of the 2015 American Community Survey 5-year estimates.
 The project data file:
 _acs2015_county_data.csv: Data for each county or county equivalent in the US, including DC and Puerto Rico._
-[Dataset link]()
+[Dataset link](https://www.kaggle.com/datasets/muonneutrino/us-census-demographic-data/data?select=acs2015_county_data.csv)
+
+### Screenshot of datasource in tableau
