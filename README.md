@@ -37,22 +37,22 @@ California has the highest number of employed individuals, totaling 17,246,360.
 
 C. Design
 
-Chart Type:
+```Chart Type:```
 * I used a symbol map to illustrate the state with the highest employment. Symbol
 maps effectively convey geographic distributions of employment data.
 
-Color:
+```Color:```
 * A blue-orange divergent color palette was employed, with the brightest orange
 representing the state with the highest employment and the brightest blue for the
 lowest.
 
-Size Mark:
+```Size Mark:```
 * The largest circle on the map indicates the state with the highest employment.
   
-Tooltip:
+```Tooltip:```
 * Tooltips provide a breakdown of employment categories within each state.
   
-Filter:
+```Filter:```
 * Filters enhance interactivity, allowing users to focus on specific states or regions.
   
 Visual Summary:
@@ -94,14 +94,14 @@ time of 10.4 minutes.
 
 C. Design
 
-Chart Type:
+```Chart Type:```
 
 I used Bubble charts for the visualization.
 Bubble charts allow viewers to quickly compare the commute times across different counties.
 The visual proximity of the circles makes it easy to identify which counties have the shortest
 commute times at a glance.
 
-Color:
+```Color:```
 * I used different variant of colors support users of visualization that has color blindness. I
 achieved these by using color marks in tableau.
 Visualization Summary:
