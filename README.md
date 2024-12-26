@@ -17,6 +17,9 @@ _acs2015_county_data.csv: Data for each county or county equivalent in the US, i
 #### Tableau
 Tableau is a powerful data visualization and business intelligence tool that allows users to analyze and visualize data interactively. It is widely used to turn raw data into actionable insights through visually appealing dashboards and reports.
 
+#### Full Project resources
+[Link]()
+
 #### First visualization report
 ##### Question addressed with the dataset:
 _How many people are employed in each state? What is the category of employment? And in
