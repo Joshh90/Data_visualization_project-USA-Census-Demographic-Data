@@ -17,8 +17,8 @@ _acs2015_county_data.csv: Data for each county or county equivalent in the US, i
 #### Tableau
 Tableau is a powerful data visualization and business intelligence tool that allows users to analyze and visualize data interactively. It is widely used to turn raw data into actionable insights through visually appealing dashboards and reports.
 
-#### Full Project resources
-[Link]()
+#### Packaged Full Project
+[Link](https://github.com/Joshh90/Data-visualization-project-USA-Census-Demographic-Data/blob/main/US%20Census%20Demographic%20Data%20Project.twbx)
 
 #### First visualization report
 ##### Question addressed with the dataset:
