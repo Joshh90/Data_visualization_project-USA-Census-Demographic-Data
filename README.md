@@ -32,6 +32,7 @@ A. Link to visualization that answer the question
 ![Screenshot](https://github.com/Joshh90/Data-visualization-project-USA-Census-Demographic-Data/blob/main/Employment%20categories%20per%20state.jpg)
 
 B. Summary
+
 California has the highest number of employed individuals, totaling 17,246,360.
 
 C. Design
@@ -47,10 +48,13 @@ lowest.
 
 Size Mark:
 * The largest circle on the map indicates the state with the highest employment.
+  
 Tooltip:
 * Tooltips provide a breakdown of employment categories within each state.
+  
 Filter:
 * Filters enhance interactivity, allowing users to focus on specific states or regions.
+  
 Visual Summary:
 After the thorough analysis of the census dataset, I gained a valuable insight about
 employment across the United States.
@@ -96,6 +100,7 @@ I used Bubble charts for the visualization.
 Bubble charts allow viewers to quickly compare the commute times across different counties.
 The visual proximity of the circles makes it easy to identify which counties have the shortest
 commute times at a glance.
+
 Color:
 * I used different variant of colors support users of visualization that has color blindness. I
 achieved these by using color marks in tableau.
@@ -162,7 +167,8 @@ regions, enhancing user engagement.
 ```Color:```
 * I utilized a blue-orange divergent color palette for the bar chart and the graph
 ensuring accessibility for viewers with color blindness.
-Dashboard:
+
+```Dashboard```
 * Dashboards allow you to combine multiple visualizations into a single view. This helps
 users see relationships and trends across different data sets at a glance.
 Dashboards in Tableau can include interactive elements such as filters, parameters,
@@ -173,7 +179,8 @@ After a thorough analysis of the census dataset, I gained a valuable insight abo
 transportation, income, poverty.
 
 #### Story telling with the data
-I used the dataset to tell a story. The story display all the visualization.
+I used the dataset to tell a story. The story display all the visualizations.
+We can click all the individual visualizations in the Story visuals. Which will give us opportunity to see all the aggregated visualization in one page.
 ![Dataset Screenshot](https://github.com/Joshh90/Data-visualization-project-USA-Census-Demographic-Data/blob/main/Story%20telling%20with%20the%20data%20screenshot.jpg)
 
 [Link to Story telling with the dataset](https://public.tableau.com/app/profile/joshua.adelakun/viz/USCensusDemographicDataProject_17348489952100/Storytellingwiththedata?publish=yes)
