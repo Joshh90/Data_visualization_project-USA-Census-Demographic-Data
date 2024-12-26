@@ -6,7 +6,9 @@ This analysis aims to answer several key questions regarding transportation, inc
 poverty, and employment across the United States.
 ### About dataset
 The data was taken from the DP03 and DP05 tables of the 2015 American Community Survey 5-year estimates.
+
 The project data file:
+
 _acs2015_county_data.csv: Data for each county or county equivalent in the US, including DC and Puerto Rico._
 [Dataset link](https://www.kaggle.com/datasets/muonneutrino/us-census-demographic-data/data?select=acs2015_county_data.csv)
 
@@ -17,7 +19,7 @@ _acs2015_county_data.csv: Data for each county or county equivalent in the US, i
 #### Tableau
 Tableau is a powerful data visualization and business intelligence tool that allows users to analyze and visualize data interactively. It is widely used to turn raw data into actionable insights through visually appealing dashboards and reports.
 
-#### Packaged Full Project
+##### Packaged Full Project
 [Link](https://github.com/Joshh90/Data-visualization-project-USA-Census-Demographic-Data/blob/main/US%20Census%20Demographic%20Data%20Project.twbx)
 
 #### First visualization report
