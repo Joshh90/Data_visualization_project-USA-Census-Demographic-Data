@@ -30,6 +30,7 @@ B. Summary
 California has the highest number of employed individuals, totaling 17,246,360.
 
 C. Design
+
 Chart Type:
 * I used a symbol map to illustrate the state with the highest employment. Symbol
 maps effectively convey geographic distributions of employment data.
@@ -51,33 +52,41 @@ employment across the United States.
 
 #### Second visualization report
 ##### Question addressed with the dataset:
-_Which State Has the Best Transportation?
+
+_Which State Has the Best Transportation?_
 
 I. Link to visualization that answer the question:
 [Dataset link](https://public.tableau.com/app/profile/joshua.adelakun/viz/USCensusDemographicDataProject_17348489952100/Meancommutetimeineachcounty?publish=yes)
 ![Screenshot link]()
+
 B. Summary
 ##### Analysis:
 I selected the state with the least mean commute time as the one with the best
 transportation, as shorter commute times can indicate more efficient transportation
 systems.
 Defining "Best Transportation"
+
 Criteria for Evaluation:
-• Lowest Mean Commute Times: This indicates how efficiently people can travel to
+* Lowest Mean Commute Times: This indicates how efficiently people can travel to
 work. Shorter commute times often reflect better transportation systems.
+
 Aggregation Method:
-• Mean Commute Times: I calculated the average of the mean commute times for
+* Mean Commute Times: I calculated the average of the mean commute times for
 all counties within each state. Based on my analysis, Alaska has the least average
 mean commute time of 11.23 minutes.
+
 Outlier Analysis:
-• I identified Matanuska-Susitna Borough County in Alaska as an outlier with an
+* I identified Matanuska-Susitna Borough County in Alaska as an outlier with an
 average mean commute time of 34 minutes. The preceding county, Kenai Peninsula
 Borough, has an average mean commute time of 19.70 minutes. To prevent data skew,
 I excluded Matanuska-Susitna Borough from my analysis. After exclusion, Alaska
 remains the state with the best transportation, with an adjusted average mean commute
 time of 10.4 minutes.
+
 C. Design
+
 Chart Type:
+
 I used Bubble charts for the visualization.
 Bubble charts allow viewers to quickly compare the commute times across different counties.
 The visual proximity of the circles makes it easy to identify which counties have the shortest
