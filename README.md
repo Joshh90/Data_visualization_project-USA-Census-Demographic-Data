@@ -105,7 +105,7 @@ A. _Which State Has the Best Transportation?_
 
 I. DASHBOARD SCREENSHOT LINK:
 [Dataset link]()
-![Screenshot](https://github.com/Joshh90/Data-visualization-project-USA-Census-Demographic-Data/blob/main/Main%20dashboard.jpg)
+![Screenshot]()
 
 II. DASHBOARD SUMMARY
 
