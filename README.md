@@ -79,6 +79,7 @@ I used a map to depict the median income-to-poverty ratio across US states. The
 analysis reveals that the District of Columbia has the highest median income of$70,848,
 with only 18% of its population living below the poverty level. I also drilled
 down to show the income-to-poverty ratio in each county.
+
 III. DESIGN
 
 Chart Type:
