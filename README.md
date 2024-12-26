@@ -169,3 +169,9 @@ customize their view based on their specific needs.
 Visualization Summary:
 After a thorough analysis of the census dataset, I gained a valuable insight about
 transportation, income, poverty.
+
+#### Story telling with the data
+[Dataset Screenshot]()
+[Dataset Screensh ](https://public.tableau.com/app/profile/joshua.adelakun/viz/USCensusDemographicDataProject_17348489952100/Storytellingwiththedata?publish=yes)
+
+
