@@ -28,7 +28,7 @@ _How many people are employed in each state? What is the category of employment?
 which percentage?_
 
 A. Link to visualization that answer the question
-[Dataset link](https://public.tableau.com/app/profile/joshua.adelakun/viz/USCensusDemographicDataProject_17348489952100/EmploymentCategoriesperstate?publish=yes)
+[Visualization link](https://public.tableau.com/app/profile/joshua.adelakun/viz/USCensusDemographicDataProject_17348489952100/EmploymentCategoriesperstate?publish=yes)
 ![Screenshot](https://github.com/Joshh90/Data-visualization-project-USA-Census-Demographic-Data/blob/main/Employment%20categories%20per%20state.jpg)
 
 B. Summary
@@ -65,7 +65,7 @@ employment across the United States.
 _Which State Has the Best Transportation?_
 
 I. Link to visualization that answer the question:
-[Dataset link](https://public.tableau.com/app/profile/joshua.adelakun/viz/USCensusDemographicDataProject_17348489952100/Meancommutetimeineachcounty?publish=yes)
+[Visualization link](https://public.tableau.com/app/profile/joshua.adelakun/viz/USCensusDemographicDataProject_17348489952100/Meancommutetimeineachcounty?publish=yes)
 ![Screenshot link](https://github.com/Joshh90/Data-visualization-project-USA-Census-Demographic-Data/blob/main/Mean%20commute%20time%20in%20each%20county%20screenshot.jpg)
 
 B. Summary
@@ -113,8 +113,8 @@ commune time in each county of USA.
 ##### Question addressed with the dataset displayed in the dashboard:
 A. _Which State Has the Best Transportation?_
 
-I. DASHBOARD SCREENSHOT LINK:
-[Dataset link](https://public.tableau.com/app/profile/joshua.adelakun/viz/USCensusDemographicDataProject_17348489952100/UScensusdemodash?publish=yes)
+I.Link to visualization that answer the question:
+[Dashboard link](https://public.tableau.com/app/profile/joshua.adelakun/viz/USCensusDemographicDataProject_17348489952100/UScensusdemodash?publish=yes)
 ![Screenshot](https://github.com/Joshh90/Data-visualization-project-USA-Census-Demographic-Data/blob/main/Main%20dashboard1.jpg)
 
 II. DASHBOARD SUMMARY
@@ -184,5 +184,9 @@ We can click all the individual visualizations in the Story visuals. Which will 
 ![Dataset Screenshot](https://github.com/Joshh90/Data-visualization-project-USA-Census-Demographic-Data/blob/main/Story%20telling%20with%20the%20data%20screenshot.jpg)
 
 [Link to Story telling with the dataset](https://public.tableau.com/app/profile/joshua.adelakun/viz/USCensusDemographicDataProject_17348489952100/Storytellingwiththedata?publish=yes)
+
+
+#### Note:
+When we click on the links to the visualizations, we will be able to see interactivity of the visualizations.
 
 
